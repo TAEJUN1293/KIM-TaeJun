@@ -4,4 +4,4 @@
 
 ### Skills
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnrrhtlvsi43)](https://solved.ac/wnrrhtlvsi43})
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnrrhtlvsi43})](https://solved.ac/wnrrhtlvsi43})
