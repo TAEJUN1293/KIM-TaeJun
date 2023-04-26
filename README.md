@@ -1,4 +1,7 @@
-# Hi there! :wave:
+# Welcome to my GitHub :wave:
+
+###  I'm Taejun :wave:
+
 
 :seedling: I'm currently 
 
